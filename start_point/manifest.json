@@ -1,5 +1,5 @@
 {
-  "image_name": "cyberdojofoundation/coffeescript_jasmine:80b8083",
+  "image_name": "cyberdojofoundation/coffeescript_jasmine:61aae85",
   "display_name": "CoffeeScript, jasmine",
   "visible_filenames": [
     "hiker_spec.coffee",
