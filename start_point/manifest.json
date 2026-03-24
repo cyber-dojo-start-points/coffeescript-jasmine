@@ -1,6 +1,6 @@
 {
   "display_name": "CoffeeScript 2.7.0, jasmine 3.0.0",
-  "image_name": "ghcr.io/cyber-dojo-languages/coffeescript_jasmine:563b675",
+  "image_name": "ghcr.io/cyber-dojo-languages/coffeescript_jasmine:c9b16e0",
   "visible_filenames": [
     "hiker_spec.coffee",
     "hiker.coffee",
