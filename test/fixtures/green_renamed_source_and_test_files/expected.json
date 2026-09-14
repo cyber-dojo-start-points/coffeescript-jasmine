@@ -1,0 +1,11 @@
+{
+  "max_output_lines": 15,
+  "match_counts": {
+    "^4 tests, 4 assertions, 0 failures, 0 skipped$": 1,
+    "^\\.{4}$": 1,
+    "hiker": 0,
+    "^Failures:$": 0,
+    "^Exception loading: ": 0
+  },
+  "truncated": false
+}

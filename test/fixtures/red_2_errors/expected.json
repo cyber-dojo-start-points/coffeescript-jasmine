@@ -1,0 +1,12 @@
+{
+  "match_counts": {
+    "^2 tests, 2 assertions, 2 failures, 0 skipped$": 1,
+    "^Failures:$": 1,
+    "^ +Message:$": 2,
+    "^ +TypeError: Cannot read properties of null \\(reading 'length'\\)$": 4,
+    "^ +Expected ": 0,
+    "^F{2}$": 1,
+    "^Exception loading: ": 0
+  },
+  "truncated": false
+}

@@ -1,0 +1,10 @@
+{
+  "match_counts": {
+    "^Exception loading: /sandbox/hiker_spec\\.coffee$": 1,
+    "^\\[/sandbox/hiker\\.coffee:[0-9]+:[0-9]+: error: unexpected indentation$": 1,
+    "^[0-9]+ tests?, ": 0,
+    "^Finished in ": 0,
+    "^Failures:$": 0
+  },
+  "truncated": false
+}
